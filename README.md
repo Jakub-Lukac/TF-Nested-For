@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Demo to showcase how manipulate with arrays(lists) and maps in terraform
+Demo to showcase how to manipulate with arrays(lists) and maps in terraform
 
 ## output "data-output-list"
 
