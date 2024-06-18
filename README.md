@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Demo to showcase how to manipulate with arrays(lists) and maps in terraform. The IP address list example was created by [Mark Tinderholt](https://github.com/markti)
+Demo to showcase how to manipulate with arrays(lists) and maps in terraform. The IP address list example was forked from [Mark Tinderholt](https://github.com/markti).
 
 ## output "data-output-list"
 
